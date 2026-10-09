@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fylia 戏剧性短视频导演"
+  short_description: "披发超丰满女主角的高冲击短视频：首帧悬念、连续特技、运镜与音乐卡点"
+  default_prompt: "使用 $fylia-dramatic-video-director 根据我的剧情或参考视频，编写首帧图片提示词和对应的高冲击视频提示词。"
+policy:
+  allow_implicit_invocation: true
